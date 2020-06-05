@@ -1,0 +1,37 @@
+.svg-logo {
+    opacity: 0;
+    height: 650px;
+}
+
+.cls-1, .cls-5 {
+    fill: none;
+    stroke: #fff;
+    stroke-miterlimit: 10;
+}
+
+.cls-1 {
+    stroke-width: 2px;
+}
+
+.cls-2 {
+    opacity: 0;
+    stroke-width: 2px;
+}
+
+.cls-2, .cls-3 {
+    isolation: isolate;
+}
+
+.cls-4 {
+    fill: #fff;
+}
+
+.exagon {
+    transform-origin: 50% 50%;
+}
+
+.triangles {
+    transform-origin: 50% 50%;
+}
+
+

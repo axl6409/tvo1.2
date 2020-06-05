@@ -1,0 +1,68 @@
+
+.main {
+    background-color: #212121;
+}
+
+.home-container {
+    position: relative;
+    background-color: rgba(0,0,0,0.8);
+    width: 100%;
+    height: 100vh;
+}
+
+.home_link {
+    position: fixed;
+    top: 47%;
+    right: 2%;
+}
+
+.home_link a {
+    color: white;
+    font-size: 15px;
+    letter-spacing: 5px;
+    font-weight: 100;
+    text-decoration: none;
+    text-transform: uppercase;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+
+.home-site_title {
+    color: white;
+    position: fixed;
+    z-index: 0;
+    left: 0;
+    width: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.home_links {
+    position: fixed;
+    left: 1%;
+    top: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.home_links a {
+    color: white;
+    font-size: 15px;
+    padding: 15px 5px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.page-title {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 2px;
+}

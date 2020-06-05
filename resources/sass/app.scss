@@ -1,0 +1,18 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+
+// Variables
+@import 'variables';
+@import 'partials/library';
+@import 'partials/logo';
+@import 'partials/nav_public';
+@import 'partials/nav_admin';
+@import 'frontend/home';
+@import 'frontend/categories';
+@import 'frontend/posts/single';
+@import 'backend/main';
+@import 'backend/posts';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
